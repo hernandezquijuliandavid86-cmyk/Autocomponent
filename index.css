@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+html { scroll-behavior: smooth; background: #070b14; }
+body { margin: 0; font-family: "IBM Plex Sans", system-ui, sans-serif; }
+.font-display { font-family: "Space Grotesk", system-ui, sans-serif; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
